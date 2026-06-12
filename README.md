@@ -13,9 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mr-Dan-kibet&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mr-Dan-kibet&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=Mr-Dan-kibet&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub Achievements](https://img.shields.io/badge/GitHub-Achievements-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Mr-Dan-kibet?tab=achievements)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
