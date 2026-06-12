@@ -12,8 +12,5 @@
 ![](https://streak-stats.demolab.com/?user=Mr-Dan-kibet&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mr-Dan-kibet&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-[![GitHub Achievements](https://img.shields.io/badge/GitHub-Achievements-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Mr-Dan-kibet?tab=achievements)
 
 
